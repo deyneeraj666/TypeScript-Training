@@ -1,0 +1,9 @@
+let empid:number=145;
+let empname:string="Robert";
+let empjob :string="Manager";
+let isemppermanent :boolean= true;
+let empsalary :number=65000;
+let empdeptno :number=101;
+
+console.log("Emp-Id:"+ empid +" Emp-Name:"+empname+" Emp-Job :"+empjob+" Emp-Permanent:"+isemppermanent
++" Emp-Salary:"+empsalary+" Emp-Dept no:"+empdeptno);
