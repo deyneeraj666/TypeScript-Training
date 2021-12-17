@@ -5,7 +5,7 @@ class Product
     private unitPrice:number;
     private quantity:number;
 
-    constructor(productId:number)
+    constructor(productId?:number)
     {
         this.productId=productId;
     }
